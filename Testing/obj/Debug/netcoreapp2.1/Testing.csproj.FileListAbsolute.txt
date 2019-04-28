@@ -1,0 +1,11 @@
+/Users/shenchenpan/Documents/Workplace/Testing/bin/Debug/netcoreapp2.1/Testing.deps.json
+/Users/shenchenpan/Documents/Workplace/Testing/bin/Debug/netcoreapp2.1/Testing.runtimeconfig.json
+/Users/shenchenpan/Documents/Workplace/Testing/bin/Debug/netcoreapp2.1/Testing.runtimeconfig.dev.json
+/Users/shenchenpan/Documents/Workplace/Testing/bin/Debug/netcoreapp2.1/Testing.dll
+/Users/shenchenpan/Documents/Workplace/Testing/bin/Debug/netcoreapp2.1/Testing.pdb
+/Users/shenchenpan/Documents/Workplace/Testing/obj/Debug/netcoreapp2.1/Testing.csprojAssemblyReference.cache
+/Users/shenchenpan/Documents/Workplace/Testing/obj/Debug/netcoreapp2.1/Testing.csproj.CoreCompileInputs.cache
+/Users/shenchenpan/Documents/Workplace/Testing/obj/Debug/netcoreapp2.1/Testing.AssemblyInfoInputs.cache
+/Users/shenchenpan/Documents/Workplace/Testing/obj/Debug/netcoreapp2.1/Testing.AssemblyInfo.cs
+/Users/shenchenpan/Documents/Workplace/Testing/obj/Debug/netcoreapp2.1/Testing.dll
+/Users/shenchenpan/Documents/Workplace/Testing/obj/Debug/netcoreapp2.1/Testing.pdb

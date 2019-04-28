@@ -1,0 +1,11 @@
+/Users/shenchenpan/Documents/Workplace/Problems/obj/Debug/netcoreapp2.1/Problems.csprojAssemblyReference.cache
+/Users/shenchenpan/Documents/Workplace/Problems/obj/Debug/netcoreapp2.1/Problems.csproj.CoreCompileInputs.cache
+/Users/shenchenpan/Documents/Workplace/Problems/obj/Debug/netcoreapp2.1/Problems.AssemblyInfoInputs.cache
+/Users/shenchenpan/Documents/Workplace/Problems/obj/Debug/netcoreapp2.1/Problems.AssemblyInfo.cs
+/Users/shenchenpan/Documents/Workplace/Problems/bin/Debug/netcoreapp2.1/Problems.deps.json
+/Users/shenchenpan/Documents/Workplace/Problems/bin/Debug/netcoreapp2.1/Problems.runtimeconfig.json
+/Users/shenchenpan/Documents/Workplace/Problems/bin/Debug/netcoreapp2.1/Problems.runtimeconfig.dev.json
+/Users/shenchenpan/Documents/Workplace/Problems/bin/Debug/netcoreapp2.1/Problems.dll
+/Users/shenchenpan/Documents/Workplace/Problems/bin/Debug/netcoreapp2.1/Problems.pdb
+/Users/shenchenpan/Documents/Workplace/Problems/obj/Debug/netcoreapp2.1/Problems.dll
+/Users/shenchenpan/Documents/Workplace/Problems/obj/Debug/netcoreapp2.1/Problems.pdb

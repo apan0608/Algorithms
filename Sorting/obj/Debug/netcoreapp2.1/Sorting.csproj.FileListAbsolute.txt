@@ -1,0 +1,11 @@
+/Users/shenchenpan/Documents/Workplace/Sorting/obj/Debug/netcoreapp2.1/Sorting.csprojAssemblyReference.cache
+/Users/shenchenpan/Documents/Workplace/Sorting/obj/Debug/netcoreapp2.1/Sorting.csproj.CoreCompileInputs.cache
+/Users/shenchenpan/Documents/Workplace/Sorting/obj/Debug/netcoreapp2.1/Sorting.AssemblyInfoInputs.cache
+/Users/shenchenpan/Documents/Workplace/Sorting/obj/Debug/netcoreapp2.1/Sorting.AssemblyInfo.cs
+/Users/shenchenpan/Documents/Workplace/Sorting/bin/Debug/netcoreapp2.1/Sorting.deps.json
+/Users/shenchenpan/Documents/Workplace/Sorting/bin/Debug/netcoreapp2.1/Sorting.runtimeconfig.json
+/Users/shenchenpan/Documents/Workplace/Sorting/bin/Debug/netcoreapp2.1/Sorting.runtimeconfig.dev.json
+/Users/shenchenpan/Documents/Workplace/Sorting/bin/Debug/netcoreapp2.1/Sorting.dll
+/Users/shenchenpan/Documents/Workplace/Sorting/bin/Debug/netcoreapp2.1/Sorting.pdb
+/Users/shenchenpan/Documents/Workplace/Sorting/obj/Debug/netcoreapp2.1/Sorting.dll
+/Users/shenchenpan/Documents/Workplace/Sorting/obj/Debug/netcoreapp2.1/Sorting.pdb

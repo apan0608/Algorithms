@@ -1,0 +1,11 @@
+/Users/shenchenpan/Documents/Workplace/Searching/obj/Debug/netcoreapp2.1/Searching.csprojAssemblyReference.cache
+/Users/shenchenpan/Documents/Workplace/Searching/obj/Debug/netcoreapp2.1/Searching.csproj.CoreCompileInputs.cache
+/Users/shenchenpan/Documents/Workplace/Searching/obj/Debug/netcoreapp2.1/Searching.AssemblyInfoInputs.cache
+/Users/shenchenpan/Documents/Workplace/Searching/obj/Debug/netcoreapp2.1/Searching.AssemblyInfo.cs
+/Users/shenchenpan/Documents/Workplace/Searching/bin/Debug/netcoreapp2.1/Searching.deps.json
+/Users/shenchenpan/Documents/Workplace/Searching/bin/Debug/netcoreapp2.1/Searching.runtimeconfig.json
+/Users/shenchenpan/Documents/Workplace/Searching/bin/Debug/netcoreapp2.1/Searching.runtimeconfig.dev.json
+/Users/shenchenpan/Documents/Workplace/Searching/bin/Debug/netcoreapp2.1/Searching.dll
+/Users/shenchenpan/Documents/Workplace/Searching/bin/Debug/netcoreapp2.1/Searching.pdb
+/Users/shenchenpan/Documents/Workplace/Searching/obj/Debug/netcoreapp2.1/Searching.dll
+/Users/shenchenpan/Documents/Workplace/Searching/obj/Debug/netcoreapp2.1/Searching.pdb
